@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">PulseSensor</string>
+    <string name="String1">Take charge of your cardiac health</string>
+    <string name="String3">Login</string>
+    <string name="String4">Emergencies within 500m will be shown on the map</string>
+    <string name="String5">My Profile</string>
+
+    <string name="Name">Home Fragment</string>
+    <string name="Heart">Heart Fragment</string>
+    <string name="Map">Map Fragment</string>
+
+    <string name="navHomeText">My Profile</string>
+    <string name="navHeartText">Heart Rate</string>
+    <string name="navMapText">Map</string>
+
+    <string name="Firstaider">I am a certified Firstaider</string>
+    <string name="HomePageEmail">User Email Goes Here</string>
+    <string name="FirstAiderDeclarationText">I am a First Aider!</string>
+
+    <string name="trackHRButtonText">Track HR</string>
+    <string name="stopHRText">Stop</string>
+
+    <string name="PPGplotText">PPG Signal</string>
+    <string name="HRValueText">88</string>
+    <string name="HRHeadingText">HR:</string>
+    <string name="btConnectButtonText">Connect</string>
+    <string name="default_notification_channel_id" translatable="false">default</string>
+
+    <!-- String for onboard walkthrough screen -->
+    <string name="obtitle1">Welcome</string>
+    <string name="obtitle2">Bluetooth Connection</string>
+    <string name="obtitle3">Early Warning</string>
+    <string name="obtitle4">Lets Get Started</string>
+
+    <string name="description1">Thank you for using our HeartRate Tracker! This app will help to link our heartrate tracker with your mobile phone for easier monitoring! </string>
+    <string name="description2">This app will connect to our device via bluetooth connection! Just simply click track and you are ready to go! </string>
+    <string name="description3">Should your heartrate drop below the acceptable threshold, we will be sending out a warning to other users to alert them on your condition! Help is always on the way! </string>
+    <string name="description4">What are you waiting for? Connect now and lets get tracking! </string>
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_heart_fragment_new">HeartFragmentNew</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
